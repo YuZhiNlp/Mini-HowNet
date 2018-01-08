@@ -13,4 +13,8 @@
 * [体验中文文本解析](http://yuzhinlp.com/chnParse.html)
 * [体验英文文本解析](http://yuzhinlp.com/engParse.html)
 * [篇章相似度beta](http://yuzhinlp.com/longTextSimilarity.html)
+* [盗窃罪智能判案辅助系统](http://product01.yuzhinlp.com)
+* [垃圾短信识别系统](http://product02.yuzhinlp.com)
+* [问答意图识别系统](http://product05.yuzhinlp.com)
+* [车险话务坐席自动审核系统](http://product04.yuzhinlp.com)
 ---
